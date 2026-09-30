@@ -6,6 +6,10 @@
 
 - 📫 How to reach me **ozturkardaertan@gmail.com**
 
+- <h3 align="left">🏆 Achievements: 
+- I placed 7th in the Sumo Robot category at the 2016 MEB Robot Competition.
+- 
+
 <h3 align="left">Connect with me: ozturkardaertan@gmail.com </h3>
 <p align="left">
 </p>
