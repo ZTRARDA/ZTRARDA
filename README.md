@@ -6,14 +6,9 @@
 
 - 📫 How to reach me **ozturkardaertan@gmail.com**
 
- <h3 align="left">🏆 Achievements: 
--🥇 2016: Placed 7th in the Sumo Robot category at the MEB Robot Competition.
--🏆 2017: Received the Promising Maker Award at the Maker Faire.
--🚀 2018: Became a finalist in the Unmanned Aerial Vehicle category at Teknofest.
--🦯 2019: Received various awards for my assistive cane project designed for visually impaired individuals.
--🤿 2020: Became a finalist in the Unmanned Underwater Systems category at Teknofest.
--🎬 2021: Developed an interactive film titled "Önlem" (Precaution) as part of the Ministry of National Education's Health Ambassadors Program and received various awards.
--🏛️ 2022–2024: Served as the Chair of the Ministry of National Education's Youth Advisory Board.
+<h3 align="left">🏆 Achievements</h3>
+
+<ul> <li>🥇 <strong>2016:</strong> Placed <strong>7th</strong> in the Sumo Robot category at the <strong>MEB Robot Competition</strong>.</li> <li>🏆 <strong>2017:</strong> Received the <strong>Promising Maker Award</strong> at the <strong>Maker Faire</strong>.</li> <li>🚀 <strong>2018:</strong> Became a <strong>finalist</strong> in the Unmanned Aerial Vehicle category at <strong>Teknofest</strong>.</li> <li>🦯 <strong>2019:</strong> Received <strong>various awards</strong> for my assistive cane project designed for <strong>visually impaired individuals</strong>.</li> <li>🤿 <strong>2020:</strong> Became a <strong>finalist</strong> in the Unmanned Underwater Systems category at <strong>Teknofest</strong>.</li> <li>🎬 <strong>2021:</strong> Developed an interactive film titled <strong>"Önlem" (Precaution)</strong> as part of the Ministry of National Education's <strong>Health Ambassadors Program</strong> and received various awards.</li> <li>🏛️ <strong>2022–2024:</strong> Served as the <strong>Chair of the Ministry of National Education's Youth Advisory Board</strong>.</li> </ul>
 
 <h3 align="left">Connect with me: ozturkardaertan@gmail.com </h3>
 <p align="left">
