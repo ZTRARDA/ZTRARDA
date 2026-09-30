@@ -4,7 +4,7 @@
 👨‍💻 Öztürk Arda Ertan </li> <li>
 Computer Engineering Student | Developer | Maker & Innovator
 
-- 💬 Ask me about **C++, C, C#, IDE, Java, SketchUp**
+- 💬 Ask me about **C, C++, C#, IDE, Java, SketchUp, MakeBlock, Scratch, Arduino, Unmanned Aerial Vehicle, Unmanned Underwater Systems, Tinkercad. So, you can ask whatever you want.😊**
 
 - 📫 How to reach me **ozturkardaertan@gmail.com**
 
