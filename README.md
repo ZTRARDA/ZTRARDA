@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **ozturkardaertan@gmail.com**
 
-<h3 align="left">Connect with me:**ozturkardaertan@gmail.com** </h3>
+<h3 align="left">Connect with me:ozturkardaertan@gmail.com </h3>
 <p align="left">
 </p>
 
