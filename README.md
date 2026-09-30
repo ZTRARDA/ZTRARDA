@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Öztürk Arda Ertan</h1>
 <h3 align="center">A passionate Computer Engineering student from Türkiye</h3>
 
--### Computer Engineering Student | Developer | Maker
+👨‍💻 Öztürk Arda Ertan
+Computer Engineering Student | Developer | Maker & Innovator
 
 - 💬 Ask me about **C++, C, C#, IDE, Java, SketchUp**
 
